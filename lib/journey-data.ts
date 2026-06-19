@@ -138,7 +138,7 @@ export const journey: JourneyConfig = {
           type: 'photoBomb',
           photos: [
             { src: '/collage/6.jpg', alt: '', },
-            { src: '/collage/7.jpg', alt: '', },
+            { src: '/collage/8.jpg', alt: '', },
           ],
           caption: 'Activist!!!'
         },
@@ -243,7 +243,7 @@ export const journey: JourneyConfig = {
           zoom: 4,
           translateX: 350,
           translateY: 500,
-          caption: 'How about this memory? I think youll know it pretty quickly.',
+          caption: 'I think youll know it pretty quickly.',
         },
         {
           type: 'photoBomb',

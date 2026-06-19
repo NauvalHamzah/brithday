@@ -113,7 +113,7 @@ export const journey: JourneyConfig = {
             alt: '',
           },
           prompt: 'Slide to bring this moment back into focus.',
-          caption: 'After the performance',
+          caption: 'Sorry i cannot find a photo where we were in frame together',
         },
       ]
     },
